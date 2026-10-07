@@ -1,0 +1,11 @@
+{
+  "version": "F3-live-1",
+  "release_date": "2026-10-07",
+  "mode": "live",
+  "default_armed": false,
+  "capital_limit_usdt": 20,
+  "max_loss_usdt": "required before activation",
+  "strategy": "BTC-USDT spot plus short BTC-USD-SWAP inverse",
+  "python_minimum": "3.11",
+  "dependencies": "Python standard library"
+}

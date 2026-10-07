@@ -1,0 +1,12 @@
+{
+  "source_release": "f3-github-20261004/okx-funding-f3-paper",
+  "source_sha256": {
+    "config-F3-20u.json": "1a9a1ed0b955c903ac9824fa25d0f65bad8e33291747dd3d0fa80e960e3a695f",
+    "STRATEGY.md": "73b790cc9df505a27d6f66e624ae79f9d63d46fdac9543aa91ba19b0fd3fe90b",
+    "reference_engine.py": "343a8b4d52d7ca492a2c6e2c89880d743febaaedeb6b279a49cd63036e15c2fb",
+    "paper_engine.py": "871f20c7c1b9e8de647ed8362bc47aeb3a959b7b4757b6e598948958ec1fc335",
+    "signals.py": "2200169a046319d43533169fc6a116b61bd005f0ce4cc595bbf0cf5c86dd1283"
+  },
+  "preservation": "F3 economic signal and risk thresholds preserved; actual execution, fees, accounting and recovery are new; see STRATEGY.md",
+  "note": "Reference paper config is not loaded by live code."
+}

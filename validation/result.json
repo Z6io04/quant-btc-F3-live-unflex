@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "test_count": 109,
+  "timestamp_utc": "2026-10-07T06:41:03.826233+00:00",
+  "python": "3.12.14",
+  "platform": "darwin",
+  "network": "mock transports; no real account calls or orders",
+  "source_syntax": "all Python AST parsed; bash -n passed",
+  "server_systemd": "not exercised on remote Debian",
+  "actual_account_execution": "not tested",
+  "release_default": "unarmed; credentials absent; max_loss_usdt null"
+}
